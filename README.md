@@ -21,7 +21,7 @@ This repository provides tools to:
 - VEM inference for the dynamic BD-SBM (sparse CSR interaction counts)  
   ([code here](./BDSBM/Dynamic_BDSBM_VEM_sparse.py))
 
-- Utility functions (ELBO/ICL computation, Poisson–binomial distribution, etc.)  
+- Utility functions (ELBO, ICL computation, Poisson–binomial distribution, etc.)  
   ([code here](./BDSBM/utils.py))
 
 ---
