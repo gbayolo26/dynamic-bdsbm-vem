@@ -52,10 +52,14 @@ We evaluate the method through simulations where:
 - VEM jointly estimates `(pi, beta, lambda, mu)` and the variational distributions `(delta, gamma, gamma_mar)`,
 - model selection can be performed using ICL.
 
+---
+
 ### Maintainers
 Gabriela Bayolo Soler (gabriela.bayolo-soler@utc.fr)
 
 <img src="https://github.com/gbayolo26/risk_estimation/assets/79975920/eedd8e6e-6cea-4327-bef3-54fe0256ff06" width="180" height="50">
+
+---
 
 ### Licence
 [Apache-2.0 licence](https://github.com/gbayolo26/risk_estimation/blob/main/LICENSE)
