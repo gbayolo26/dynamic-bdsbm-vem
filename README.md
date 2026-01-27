@@ -28,7 +28,7 @@ This repository provides tools to:
 
 ### More information
 
-- Paper / preprint: ([link here](<YOUR_LINK>))
+- Paper / preprint: ([link here](https://hal.science/hal-05430728))
 
 ---
 
